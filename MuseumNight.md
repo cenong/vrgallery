@@ -9,6 +9,8 @@ A VR application made by Cen Ong
  
 ### Persona
 
+![](media/persona.png?raw=true "Persona")
+
 ### Sketches
 
 ### User Testing
