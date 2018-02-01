@@ -13,11 +13,11 @@ A VR application made by Cen Ong
 
 ### User Testing
 
-**Question: What do you think about the waypoint navigation?**
-
-The crosses used as waypoints are somewhat 2D in nature, and difficult for the gaze to focus on, it would be better if the collider is 3D.
-
+**Question: What do you think about the waypoint navigation?**  
+The crosses used as waypoints are somewhat 2D in nature, and difficult for the gaze to focus on, it would be better if the collider is 3D.  
 *Action: Changed the collider component for waypoints from mesh to sphere collider.*
+
+**Question: What do you think about the waypoint navigation?**
 
 ## Scene Breakdown
 
