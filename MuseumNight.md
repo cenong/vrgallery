@@ -11,6 +11,14 @@ A VR application made by Cen Ong
 
 ![](media/persona.png?raw=true "Persona")
 
+**Marissa**, 45, Healthcare Business Director
+
+>I am always on the lookout for new ways to improve patient experience at our healthcare facility.
+
+Marissa is an experienced business director who is passionate about improving patient outcomes. She is seeking to invest in technologies that have the largest impact on quality of care provided by healthcare professionals. 
+
+**VR experience**: Intermediate
+
 ### Sketches
 
 ### User Testing
