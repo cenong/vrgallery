@@ -29,6 +29,8 @@ Marissa is an experienced business director who is passionate about improving pa
 
 ### Sketches
 
+![](media/sketch.png?raw=true "Sketch")
+
 ![](media/gallerywalls.png?raw=true "Gallery")
 
 ![](media/headset.png?raw=true "Headset")
@@ -50,6 +52,20 @@ The gallery looks good and spacious, however, it would be nice if there is a map
 *Action:*  
 
 ## Scene Breakdown
+
+![](media/instructions.png?raw=true "Instructions")
+
+![](media/gallerymap.png?raw=true "Map")
+
+![](media/room1.png?raw=true "Room1")
+
+![](media/room2.png?raw=true "Room2")
+
+![](media/room3.png?raw=true "Room3")
+
+![](media/room4.png?raw=true "Room4")
+
+![](media/room5.png?raw=true "Room5")
 
 ## Conclusions 
 
