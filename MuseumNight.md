@@ -2,13 +2,12 @@
 A VR application made by Cen Ong
 
 ## Introduction 
-A Night At The Museum is a gallery tour which showcases the impact of VR in the healthcare industry. The specific areas that are exhibited in this tour are:
+A Night At The Museum is a gallery tour which showcases the impact of VR in the healthcare industry. On this tour, the player moves through 5 rooms, each room featuring companies offering VR technology in different segments of the industry. The specific areas that are exhibited in this tour are:
 - surgical planning
 - fitness
 - pain management and rehabilitation
 - stress management
-- education  
-This application took approximately 100 hours to design, build and test.
+- education
 
 The following sections display the final results of the project, explain the design process, illustrate different components of the game, provide conclusions and explore future improvements.
 
@@ -29,6 +28,12 @@ Marissa is an experienced business director who is passionate about improving pa
 **VR experience**: Intermediate
 
 ### Sketches
+
+![](media/gallerywalls.png?raw=true "Gallery")
+
+![](media/headset.png?raw=true "Headset")
+
+![](media/spinbike.png?raw=true "Spinbike")
 
 ### User Testing
 
