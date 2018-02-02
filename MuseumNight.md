@@ -13,8 +13,14 @@ The following sections display the final results of the project, explain the des
 
 ## Results
 
+Please click on the image to play the video.
+
+[![](https://img.youtube.com/vi/q2bZ7hpQXsE/0.jpg)](https://www.youtube.com/watch?v=q2bZ7hpQXsE "VR Experience on iPhone")
+
 ## Design Process
- 
+
+The design process started with building a persona for whom the application is targeted. Having established the persona, sketches of different settings of the gallery were made. Each room of the gallery was designed with a rough placement of objects. Objects not found in the asset store were built in SketchUp.
+
 ### Persona
 
 ![](media/persona.png?raw=true "Persona")
@@ -29,6 +35,7 @@ Marissa is an experienced business director who is passionate about improving pa
 
 ### Sketches
 
+I made sketches of different settings of the gallery
 ![](media/sketch.png?raw=true "Sketch")
 
 ![](media/gallerywalls.png?raw=true "Gallery")
@@ -39,7 +46,9 @@ Marissa is an experienced business director who is passionate about improving pa
 
 ### User Testing
 
-I performed several iterations of user testing.
+I performed user testing at different stages of building the application. Initial user testing involve adjusting the scale of the gallery and the placement and sizes of objects.   
+
+Many iterations of user testing were performed to improve the interactivity of the gallery tour. Some questions that were addressed during user testing include:
 
 **Question: What do you think about the waypoint navigation?**  
 The crosses used as waypoints are somewhat 2D in nature, and difficult for the gaze to focus on, it would be better if the collider is 3D.  
@@ -78,7 +87,7 @@ Finally, the player enters the education exhibit which leads back to the lobby a
 
 ## Conclusions 
 
-This project was challenging because it was the first Udacity project where there were no starter models provided. Every aspect of the project took longer than expected to complete. Once again, I learnt that going in early and often is the most efficient technique to discover and resolve issues. I learnt valuable skiils in:
+This project was challenging because it was the first Udacity project where there were no starter models provided. Every aspect of the project took longer than expected to complete. Once again, I learnt that going in early and often is the most efficient technique to discover and resolve issues. I learnt valuable skills in:
 - application design
 - model building and placement
 - player navigation
