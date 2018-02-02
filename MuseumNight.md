@@ -53,6 +53,7 @@ The gallery looks good and spacious, however, it would be nice if there is a map
 
 ## Scene Breakdown
 
+When the player first enters the gallery, she will be greeted with a screen explaining the different areas that are exhibited at this gallery. Additionally, there are instructions for navigation, and the option to exit the tour. 
 ![](media/instructions.png?raw=true "Instructions")
 
 ![](media/gallerymap.png?raw=true "Map")
