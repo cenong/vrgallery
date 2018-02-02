@@ -2,7 +2,16 @@
 A VR application made by Cen Ong
 
 ## Introduction 
- 
+A Night At The Museum is a gallery tour which showcases the impact of VR in the healthcare industry. The specific areas that are exhibited in this tour are:
+- surgical planning
+- fitness
+- pain management and rehabilitation
+- stress management
+- education  
+This application took approximately 100 hours to design, build and test.
+
+The following sections display the final results of the project, explain the design process, illustrate different components of the game, provide conclusions and explore future improvements.
+
 ## Results
 
 ## Design Process
@@ -29,7 +38,7 @@ The crosses used as waypoints are somewhat 2D in nature, and difficult for the g
 
 **Question: What do you think about the text popups?**  
 It is annoying how the text disappears when the gaze is shifted away from the objects. They are also difficult to read from different angles.  
-*Action:*
+*Action: Moved text popups closer to objects that trigger them. Fixed some text and made popups more compact.*
 
 **Question: What do you think about the overall feel of the gallery?**  
 The gallery looks good and spacious, however, it would be nice if there is a map on the wall indicating my location and labeling the location of each exhibit.  
