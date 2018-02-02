@@ -39,6 +39,8 @@ Marissa is an experienced business director who is passionate about improving pa
 
 ### User Testing
 
+I performed several iterations of user testing.
+
 **Question: What do you think about the waypoint navigation?**  
 The crosses used as waypoints are somewhat 2D in nature, and difficult for the gaze to focus on, it would be better if the collider is 3D.  
 *Action: Changed the collider component for waypoints from mesh to sphere collider.*
@@ -76,4 +78,16 @@ Finally, the player enters the education exhibit which leads back to the lobby a
 
 ## Conclusions 
 
+This project was challenging because it was the first Udacity project where there were no starter models provided. Every aspect of the project took longer than expected to complete. Once again, I learnt that going in early and often is the most efficient technique to discover and resolve issues. I learnt valuable skiils in:
+- application design
+- model building and placement
+- player navigation
+- feedback effects
+- creating an experience with interactivity, music and lighting
+
 ## Future Improvements
+
+Many aspects of the museum tour can be improved, including:
+- more realistic wall decorations
+- better navigation techniques (besides waypoints)
+- adding some animated human models
