@@ -49,23 +49,29 @@ It is annoying how the text disappears when the gaze is shifted away from the ob
 
 **Question: What do you think about the overall feel of the gallery?**  
 The gallery looks good and spacious, however, it would be nice if there is a map on the wall indicating my location and labeling the location of each exhibit.  
-*Action:*  
+*Action: Added a map to the main lobby of the gallery.*  
 
 ## Scene Breakdown
 
-When the player first enters the gallery, she will be greeted with a screen explaining the different areas that are exhibited at this gallery. Additionally, there are instructions for navigation, and the option to exit the tour. 
+When the player first enters the gallery, he or she will be greeted with a screen explaining the different areas that are exhibited at this gallery. Additionally, there are instructions for navigation, and the option to exit the tour. 
 ![](media/instructions.png?raw=true "Instructions")
 
+Once the player clicks on the start button, the instructions disappear. There is a gallery map on the wall of the lobby.
 ![](media/gallerymap.png?raw=true "Map")
 
+From the lobby area, the player is presented with three options for navigation. If the player chooses the path to the left, he or she will enter the surgical planning room.
 ![](media/room1.png?raw=true "Room1")
 
+There is a doorway from the surgical planning exhibit which leads to the fitness display.
 ![](media/room2.png?raw=true "Room2")
 
+Upon exiting the fitness room, the player enters the pain management and rehabilitation room.
 ![](media/room3.png?raw=true "Room3")
 
+From the pain management and rehabilitation room, a doorway leads to the stress management exhibit, located at the back of the gallery.
 ![](media/room4.png?raw=true "Room4")
 
+Finally, the player enters the education exhibit which leads back to the lobby and concludes the tour.
 ![](media/room5.png?raw=true "Room5")
 
 ## Conclusions 
