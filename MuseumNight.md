@@ -70,25 +70,25 @@ The gallery looks good and spacious, however, it would be nice if there is a map
 
 ## Scene Breakdown
 
-When the player first enters the gallery, he or she will be greeted with a screen explaining the different areas that are exhibited at this gallery. Additionally, there are instructions for navigation, and the option to exit the tour. 
+When the player first enters the gallery, he or she will be greeted with a screen explaining the different areas that are exhibited at this gallery. Additionally, there are instructions for navigation, and the option to exit the tour.  
 ![](media/instructions.png?raw=true "Instructions")
 
-Once the player clicks on the start button, the instructions disappear. There is a gallery map on the wall of the lobby.
+Once the player clicks on the start button, the instructions disappear. There is a gallery map on the wall of the lobby. Classical music with drumbeats is playing in the background.  
 ![](media/gallerymap.png?raw=true "Map")
 
-From the lobby area, the player is presented with three options for navigation. If the player chooses the path to the left, he or she will enter the surgical planning room.
+From the lobby area, the player is presented with three options for navigation. If the player chooses the path to the left, he or she will enter the surgical planning room. Calming music is playing to simulate an operating room.  
 ![](media/room1.png?raw=true "Room1")
 
-There is a doorway from the surgical planning exhibit which leads to the fitness display.
+There is a doorway from the surgical planning exhibit which leads to the fitness display. Upbeat workout music is playing in the background.  
 ![](media/room2.png?raw=true "Room2")
 
-Upon exiting the fitness room, the player enters the pain management and rehabilitation room.
+Upon exiting the fitness room, the player enters the pain management and rehabilitation room. In this room, the player can hear music mixed with waves sound effects.  
 ![](media/room3.png?raw=true "Room3")
 
-From the pain management and rehabilitation room, the player has two options - one doorway goes back to the lobby while another doorway leads to the stress management exhibit, located at the back of the gallery.
+From the pain management and rehabilitation room, the player has two options - one doorway goes back to the lobby while another doorway leads to the stress management exhibit, located at the back of the gallery. Nostalgic classical music is playing in the background.  
 ![](media/room4.png?raw=true "Room4")
 
-Finally, the player enters the education exhibit which leads back to the lobby and concludes the tour.
+Finally, the player enters the education exhibit which leads back to the lobby and concludes the tour. Lively classical music is playing in the background.
 ![](media/room5.png?raw=true "Room5")
 
 ## Conclusions 
