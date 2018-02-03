@@ -13,7 +13,9 @@ The following sections display the final results of the project, explain the des
 
 ## Results
 
-Please click on the image to play the video.
+At the start of the game, the player is greeted with a welcoming sign at the entrance of a building. Upon clicking the "Continue" button, the player is transported into the building to start the museum tour.
+
+The image below is a link to a video recording of the museum tour. Please click on the image to play the video.
 
 [![](https://img.youtube.com/vi/q2bZ7hpQXsE/0.jpg)](https://www.youtube.com/watch?v=q2bZ7hpQXsE "VR Experience on iPhone")
 
@@ -35,14 +37,18 @@ Marissa is an experienced business director who is passionate about improving pa
 
 ### Sketches
 
-I made sketches of different settings of the gallery
+I made sketches of different settings of the gallery, and settled on a simple and modern layout. I sketched a rough placement of furniture within each room.  
 ![](media/sketch.png?raw=true "Sketch")
 
+The gallery walls were designed and built in SketchUp.  
 ![](media/gallerywalls.png?raw=true "Gallery")
 
+I also built 3D models of a VR headset and a custom spin bike in SketchUp.  
 ![](media/headset.png?raw=true "Headset")
 
 ![](media/spinbike.png?raw=true "Spinbike")
+
+The remaining objects in the gallery were obtained from the Unity Asset Store, SketchUp Warehouse and Udacity Apartment Project.
 
 ### User Testing
 
