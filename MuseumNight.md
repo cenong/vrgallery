@@ -88,7 +88,7 @@ Upon exiting the fitness room, the player enters the pain management and rehabil
 From the pain management and rehabilitation room, the player has two options - one doorway goes back to the lobby while another doorway leads to the stress management exhibit, located at the back of the gallery. Nostalgic classical music is playing in the background.  
 ![](media/room4.png?raw=true "Room4")
 
-Finally, the player enters the education exhibit which leads back to the lobby and concludes the tour. Lively classical music is playing in the background.
+Finally, the player enters the education exhibit which leads back to the lobby and concludes the tour. Lively classical music is playing in the background.  
 ![](media/room5.png?raw=true "Room5")
 
 ## Conclusions 
